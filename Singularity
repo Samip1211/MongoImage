@@ -1,2 +1,2 @@
 Bootstrap:docker
-From:mongo:4.0
+From:mong:4.0
